@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=endalkh&" alt="endalkh" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=endalkh" alt="endalkh" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=endalkh&count_private=true_icons=true&locale=en" alt="endalkh" />
 </div>
 </br>
