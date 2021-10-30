@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### By language
 <div>
-<img align="left" width="49%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalkh&layout=compact&hide=html", alt="endalkh">  
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalkh&langs_count=10" alt="endalkh" />
 </div>
 
 
