@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 
 
 
-### By language
-<div>
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endalkh&langs_count=10" alt="endalkh" />
-</div>
-
-
 <!---
 endalkh/endalkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
