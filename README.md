@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Endalkachew Belete 
+- 👋 Hi, I’m Endalk Belete 
 - 👀 I’m interested in Web development, System design and Devops
 - 🌱 I’m currently learning Golang and Aws
 - 💞️ I’m looking to collaborate on python projects
